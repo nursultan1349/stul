@@ -5,7 +5,7 @@ body{
     width:100px;
     height:100px ;
     position: absolute;
-    left: 50%;
+    left: 48%;
     animation: kameramen  5s 0.5s infinite ;
     animation-fill-mode:both;
 }
